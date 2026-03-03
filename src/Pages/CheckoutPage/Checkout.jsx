@@ -8,7 +8,7 @@ import Login from "../LoginPage/Login";
 import { FaXmark } from "react-icons/fa6";
 import { motion, AnimatePresence } from "framer-motion";
 import { userContext } from "../../context/userContext";
-import empty from "../../assets/Cart/empty.png";
+import empty from "../../assets/Cart/Empty.png";
 import AddressContextProvider, {
   AddressContext,
 } from "./../../context/AddressContext";

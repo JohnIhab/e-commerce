@@ -6,7 +6,7 @@ import { FaCartPlus } from "react-icons/fa6";
 import { FaPlus } from "react-icons/fa";
 import { FaMinus } from "react-icons/fa";
 import { MdOutlineCompareArrows } from "react-icons/md";
-import empty from "../../assets/Cart/empty.png";
+import empty from "../../assets/Cart/Empty.png";
 // import iphone from "../../assets/profile/orders/iphone.png";
 import OrderButton from "../../Components/OrderButton";
 import CartButton from "../../Components/CartButton";
