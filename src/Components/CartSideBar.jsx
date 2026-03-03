@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 import { FaRegTrashCan } from "react-icons/fa6";
 import { useTranslation } from "react-i18next";
 import { deleteCartContext } from "../context/DeleteCartContext";
-import empty from "../assets/cart/empty.png";
+import empty from "../assets/Cart/empty.png";
 import { Cart } from "../context/GetCartContext";
 import { motion, AnimatePresence } from "framer-motion";
 
