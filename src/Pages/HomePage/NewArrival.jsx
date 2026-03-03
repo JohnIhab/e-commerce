@@ -10,7 +10,7 @@ import { BiCategory } from "react-icons/bi";
 import CategoryCard from "../../Components/CategoryCard";
 import { useTranslation } from "react-i18next";
 import ProductCard from "./../../Components/ProductCard/ProductCard";
-import New from "../../assets/new.png";
+import New from "../../assets/New.png";
 
 import { useQuery } from "@tanstack/react-query";
 import { FiTag } from "react-icons/fi";
