@@ -16,7 +16,7 @@ import LoginPage from "./Pages/LoginPage/LoginPage";
 import MainCompare from "./Pages/ComparePage/MainCompare";
 import SignUp from "./Pages/SignUpPage/SignUp";
 import UserContextProvider, { userContext } from "./context/userContext";
-import UserProfile from "./Pages/userProfile/userProfile";
+import UserProfile from "./Pages/UserProfile/UserProfile";
 import Profile from "./Pages/UserProfile/Profile";
 import Addresses from "./Pages/UserProfile/Addresses";
 import Orders from "./Pages/UserProfile/Orders";
