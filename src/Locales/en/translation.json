@@ -1,0 +1,690 @@
+{
+  "about": {
+    "title": "ABOUT ZAZO KIDS",
+    "description1": "Zazo is a children's clothing brand that combines comfort, quality, and playful designs. We create outfits that let kids move freely and express their colorful personalities every day.",
+    "description2": "From everyday basics to special-occasion looks, Zazo offers carefully crafted pieces with soft fabrics, safe materials, and modern cuts. Our goal is to make parents feel confident and kids feel happy in what they wear.",
+    "pageTitle": "Zazo Kids | About",
+    "pageDescription": "Learn more about Zazo Kids and our passion for quality kids clothing",
+    "heroTitle": "About Us",
+    "breadcrumbHome": "Home",
+    "breadcrumbAbout": "About Us",
+    "videoSection": {
+      "title": "Discover the World of Zazo Kids",
+      "description": "Step inside Zazo Kids and see how we design comfy, colorful outfits that kids love to wear. From soft fabrics to playful details, every piece is made to keep little ones happy and free to move.",
+      "watchVideo": "Watch Our Story",
+      "playVideo": "Play video"
+    },
+    "whyUs": {
+      "title": "Why Parents Love Zazo Kids",
+      "description": "At Zazo Kids, we carefully design every piece with children's comfort and parents' peace of mind in mind. Soft, skin‑friendly fabrics, safe materials, and playful styles come together to create outfits that kids enjoy wearing every day.",
+      "stats": {
+        "branches": {
+          "number": "2+",
+          "title": "Stores & Corners",
+          "subtitle": "Across the region"
+        },
+        "clients": {
+          "number": "2k",
+          "title": "Happy Families",
+          "subtitle": "Who trust our brand"
+        },
+        "associates": {
+          "number": "30+",
+          "title": "Trusted Partners",
+          "subtitle": "Retail & online"
+        }
+      }
+    }
+  },
+  "navigation": {
+    "topBar": {
+      "promo": "Get 1 Product Free With $200.00 Order",
+      "todaysDeal": "Today's Deal",
+      "customerService": "Customer Service",
+      "giftCertificates": "Gift Certificates"
+    },
+    "menu": {
+      "home": "Home",
+      "shop": "Shop",
+      "about": "About",
+      "pages": "Pages",
+      "account": "Account",
+      "loginRegister": "Login/Register"
+    },
+    "shopItems": {
+      "allProducts": {
+        "name": "All Products",
+        "path": "/Shop",
+        "description": "Browse our complete collection"
+      },
+      "Categories": {
+        "name": "Categories",
+        "path": "/categories",
+        "description": "Browse all categories"
+      },
+      "newArrivals": {
+        "name": "New Arrivals",
+        "path": "/products/new",
+        "description": "Latest products in store"
+      },
+      "bestSellers": {
+        "name": "Best Sellers",
+        "path": "/products/bestsellers",
+        "description": "Most popular items"
+      },
+      "saleItems": {
+        "name": "Sale Items",
+        "path": "/products/sale",
+        "description": "Special discounted products"
+      }
+    },
+    "pagesItems": {
+      "aboutUs": {
+        "name": "About Us",
+        "path": "/about",
+        "description": "Learn more about our company"
+      },
+      "contact": {
+        "name": "Contact",
+        "path": "/contact",
+        "description": "Get in touch with us"
+      },
+      "blog": {
+        "name": "Blogs",
+        "path": "/blogs",
+        "description": "Read our latest articles"
+      },
+      "portfolio": {
+        "name": "Portfolio",
+        "path": "/portfolio",
+        "description": "View our work gallery"
+      }
+    },
+    "authItems": {
+      "login": "Login",
+      "register": "Register",
+      "profile": "Profile",
+      "logout": "Logout",
+      "loggedOutSuccess": "Logged out successfully"
+    }
+  },
+  "contact": {
+    "headingLine1": "Reach Out To Us To",
+    "headingLine2": "Explore The World Of Bags",
+    "subtitle": "Habitant morbi tristique senectus et commodo nulla facilisi lobortis mattis aliquam faucibus purus in massa tempor.",
+    "findUsTitle": "Find Us Here",
+    "address": "No: 58 A, East Madison Street,",
+    "mailUsTitle": "Mail Us",
+    "email": "info@example.com",
+    "contactUsTitle": "Contact Us",
+    "phone": "000 – 123 – 456789",
+    "websiteTitle": "Our Website",
+    "website": "www.example.com",
+    "title": "Contact Us",
+    "home": "Home",
+    "form": {
+      "title": "Get In Touch",
+      "subtitle": "Send us a message and we'll respond as soon as possible",
+      "fullName": "Full Name",
+      "fullNamePlaceholder": "Enter your full name",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Enter your phone number",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "message": "Message",
+      "messagePlaceholder": "Enter your message here...",
+      "honeypotLabel": "Website (leave empty)",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "invalidSubmission": "Invalid submission detected.",
+      "successToast": "Message sent successfully! We will get back to you soon.",
+      "errorToast": "Failed to send message. Please try again later.",
+      "thanksTitle": "Thank You!",
+      "thanksBody": "We have received your message and will get back to you soon."
+    }
+  },
+  "hero-slider": {
+    "See More": "See More",
+    "items": [
+      "Travel Right",
+      "Discover Your Perfect Bag",
+      "Explore New Bag Collections",
+      "Pack Smart, Travel Stylish",
+      "Find The Perfect Travel Companion",
+      "Travel Light, Travel Smart",
+      "Quality Bags for Every Journey",
+      "Style Meets Functionality"
+    ]
+  },
+  "newArrival": {
+    "title": "New Arrival",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All New Arrivals"
+  },
+  "featuredProducts": {
+    "title": "Featured Products",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All Products"
+  },
+  "bestSeller": {
+    "title": "Best Seller",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All Best Seller"
+  },
+  "featured-flash": {
+    "title": "Flash Deals",
+    "desc": "Check out our special flash deals!",
+    "seeAll": "See All Deals",
+    "View deal": "View deal",
+    "Flash Deals": "Flash Deals",
+    "No offers available at the moment": "No offers available at the moment",
+    "Ends in": "Ends in",
+    "Sale": "Sale"
+  },
+
+  "hot-offers": {
+    "title": "Our Hot Offers",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All Offers",
+    "Hot Offers": "Hot Offers"
+  },
+
+  "brands": {
+    "title": "Brands",
+    "clear": "Clear"
+  },
+  "wishList": {
+    "title": "WishList ",
+    "Product has been deleted successfully": "Product has been deleted successfully"
+  },
+  "offer-card": {
+    "Starts": "Starts:",
+    "Ends": "Ends:",
+    "Free": "Free product",
+    "No products": "No products in this offer",
+    "min_qty": "Min Qty ",
+    "cart_total": "Cart Total: ",
+    "on": "on",
+    "Save": "Save",
+    "More products": "More products",
+    "View all offer products": "View all offer products"
+  },
+  "featured-offers": {
+    "title": "Features Offers",
+    "description": "Check out our special featured offers!",
+    "seeAll": "See All Offers"
+  },
+  "offers-page": {
+    "title": "Offers",
+    "prev": "Prev",
+    "next": "Next",
+    "page": "Page",
+    "of": "of",
+    "no offers": "No offers found.",
+    "description": "Description"
+  },
+  "profile-points": {
+    "successfully": "Converted successfully",
+    "failed": "Conversion failed",
+    "error": "Error loading points",
+    "no_data.": "No points data.",
+    "Total Points": "Total Points",
+    "Available Points": "Available Points",
+    "Convert Points": "Convert Points",
+    "Confirm Conversion": "Confirm Conversion",
+    "This action will convert your available points to rewards.": "This action will convert your available points to rewards.",
+    "Cancel": "Cancel",
+    "Converting...": "Converting...",
+    "Yes, convert": "Yes, convert",
+    "Used Points": "Used Points",
+    "There is 0 available point": "There is 0 available point",
+    "Do you need to convert": "Do you need to convert ?"
+  },
+  "product-brand": {
+    "Shop by Brands": "Shop by Brands",
+    "Discover our most popular sections": "Discover our most popular sections"
+  },
+  "categories": {
+    "title": "Shop by Category",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All Categories",
+    "Categories": "Categories"
+  },
+  "search": {
+    "placeholder": "Search products"
+  },
+  "Our_Services": {
+    "Our Services": "Our Services",
+    "All Fashion Bags between your hands": "All Fashion Bags between your hands",
+    "Hand Bags": "Hand Bags",
+    "Back Packs": "Back Packs",
+    "Travel Bags": "Travel Bags"
+  },
+  "footer": {
+    "brandDescription": "Premium bags crafted for everyday adventures. Quality, comfort, and style in every stitch.",
+    "shop": "Shop",
+    "shopLinks": {
+      "allBags": "All Bags",
+      "newArrivals": "New Arrivals",
+      "bestSellers": "Best Sellers",
+      "sale": "Sale"
+    },
+    "support": "Support",
+    "supportLinks": {
+      "aboutUs": "About Us",
+      "contact": "Contact",
+      "shippingReturns": "Shipping & Returns",
+      "faq": "FAQ"
+    },
+    "followUs": "Follow us",
+    "followUsText": "Let's connect on social",
+    "socialAlt": {
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "twitter": "Twitter",
+      "youtube": "YouTube",
+      "linkedin": "LinkedIn",
+      "tiktok": "TikTok"
+    },
+    "subscribe": "Subscribe",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone"
+  },
+  "notFound": {
+    "title": "404 — Page not found",
+    "subtitle": "Oops — we couldn't find the page you're looking for. It may have been moved or removed, or the link could be broken.",
+    "goBack": "Go back home",
+    "footnote": "If you typed the web address, check it for mistakes. If you clicked a link, the link may be out of date."
+  },
+  "bundle-offer": {
+    "FeaturedBundle": "Featured Bundles",
+    "FeaturedBundleDesc": "Check out our special featured Bundles!",
+    "FeaturedBundleBtn": "See All Bundles",
+    "addBundle": "Add Bundle To Cart",
+    "the": "The",
+    "bundle": "Bundle",
+    "contains": "Contains",
+    "Bundle Offers": "Bundle Offers"
+  },
+  "product-details": {
+    "inStock": "In stock",
+    "outStock": "Out of stock",
+    "addToCart": "Add To Cart",
+    "buyNow": "Buy it now",
+    "related": "Related Products",
+    "price": "Price",
+    "errorLoad": "Failed to load product",
+    "overview": "Overview",
+    "details": "Details",
+    "points": "Points",
+     "category": "Category",
+    "viewAllFrom": "View all from",
+    "description": "Description",
+    "rewards": "{{site}} Rewards",
+    "earnPoints": "Earn {{points}} points with this purchase",
+    "loginToRedeem": "Login to redeem points",
+    "chooseOption": "Please choose a valid option",
+    "notifyMe": "Notify me when available"
+  },
+  "lastPieces": {
+    "title": "Last Pieces",
+    "description": "Discover our most popular sections",
+    "seeAll": "See All",
+    "imageAlt": "Last piece illustration"
+  },
+  "newest": {
+    "title": "Freshly Arrived Backpack from Our Newest Collection",
+    "shop_now": "Shop Now",
+    "free_shipping": "Free Shipping",
+    "delivery_on_time": "Delivery On Time",
+    "secure_payment": "Secure Payment"
+  },
+  "guestCheckout": {
+    "Default address changed successfully": "Default address changed successfully",
+    "Address deleted successfully": "  Address deleted successfully",
+    "Ship to": "Ship to",
+    "Default": "Default",
+    "Add Address": " Add Address",
+    "Saved Addresses": "Saved Addresses",
+    "Set Default": "Set Default",
+    "Add New Address": "Add New Address",
+    "Try Again": "Try Again",
+    "Address Added Successfully": "Address Added Successfully",
+    "Full Address": "Full Address",
+    "Country": "Country",
+    "State": "State",
+    "City": "City",
+    "Phone": "Phone",
+    "PostCode": "PostCode",
+    "ReCaptcha": "ReCaptcha",
+    "Add": "Add",
+    "Place Order": "Place Order",
+    "Order Placed": "Order Placed",
+    "Order Summary": "Order Summary",
+    "SubTotal": "SubTotal",
+    "Shipping Fees": "Shipping Fees",
+    "Discount": "Discount",
+    "Total": "Total",
+    "incl. Vat": "incl. Vat",
+    "Guest Checkout": "Guest Checkout",
+    "Full name": "Full name",
+    "Email": "Email",
+    "Cancel": "Cancel",
+    "Select Country": "Select Country",
+    "Select State": "Select State",
+    "Select City": "Select City",
+    "Submitting...": "Submitting...",
+    "Login Now": "Login Now",
+    "Your Order": "Your Order"
+  },
+  "checkout": {
+    "addAddress": "Please add address first"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "pageTitle": "JootBag | Cart",
+    "pageDescription": "JootBagCart",
+    "yourItems": "Your Items",
+    "quantityChangedSuccess": "Quantity changed successfully",
+    "banner": "Just a few steps away from enjoying our products!",
+    "shippingFees": "Shipping Fees",
+    "tax": "Tax",
+    "totalInclVat": "Total incl. Vat",
+    "checkOut": "Check Out",
+    "viewCart": "View Cart",
+    "clearCart": "Clear Cart",
+    "empty": "Your Cart is Empty",
+    "shopNow": "Shop Now",
+    "emptyImageAlt": "Empty cart illustration",
+    "complete": "Complete",
+    "order": "Order",
+    "Sure": "Are You Sure?",
+    "No": "No"
+  },
+  "orders": {
+    "title": "My Orders",
+    "Order not found": "Order not found",
+    "Cancel failed": "Cancel failed",
+    "Error": "Error",
+    "Search Result": "Search Result",
+    "Find": "Find",
+    "Search by order code e.g. ORD-...": "Search by order code e.g. ORD-...",
+    "Refresh": "Refresh",
+    "No items": "No items",
+    "Price": "Price",
+    "Shipping": "Shipping",
+    "Cancel Order": "Cancel Order",
+    "Copy Code": "Copy Code",
+    "No orders found.": "No orders found.",
+    "Cancel": "Cancel",
+    "Prev": "Prev",
+    "Next": "Next",
+    "Page": "Page",
+    "of": "of",
+    "Confirm Cancellation": "Confirm Cancellation",
+    "Are you sure you want to cancel this order?": "Are you sure you want to cancel this order?",
+    "No": "No",
+    "Yes, cancel": "Yes, cancel",
+    "Cancelling...": "Cancelling...",
+    "Copied code": "Copied code"
+  },
+  "profile": {
+    "Profile": "Profile",
+    "Welcome": "Welcome",
+    "Contact Info": "Contact Info",
+    "Email": "Email",
+    "Phone": "Phone",
+    "Saved Addresses": "Saved Addresses",
+    "home": "home",
+    "Orders": "Orders",
+    "All Orders": "All Orders",
+    "Sucssessful": "Sucssessful",
+    "Canceled": "Canceled",
+    "Returned": "Returned",
+    "Wallet": "Wallet",
+    "Points": "Points",
+    "View your points summary": "View your points summary",
+    "Balance": "Balance",
+    "No wallet found.": "No wallet found.",
+    "Transactions": "Transactions",
+    "No transactions found.": "No transactions found.",
+    "Addresses": "Addresses",
+    "Manage your saved addresses": "Manage your saved addresses",
+    "Add New Address": "Add New Address",
+    "Default Address": "Default Address",
+    "Home": "Home",
+    "Address": "Address",
+    "Other Addresses": "Other Addresses",
+    "Set Default": "Set Default"
+  },
+  "profileDetails": {
+    "title": "Profile",
+    "subtitle": "View & Update Your Personal and Contact Information",
+
+    "contact": {
+      "title": "Contact Information",
+      "emailPlaceholder": "example@hotmail.com",
+      "phonePlaceholder": "+201234567899",
+      "updateButton": "Update Contact Information"
+    },
+
+    "personal": {
+      "title": "Personal Information",
+      "NamePlaceholder": "Full Name",
+      "updateButton": "Update Personal Information",
+      "updatePasswordButton": " Update Password ",
+      "password": "Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmPassword": "Confirm New Password",
+      "forgetPassword": "Forget Password"
+    },
+    "newEmail": "New Email",
+    "Code": "Confirmation Code",
+    "changeYourEmailAddress": "Change Your Email Address",
+    "ChangeEmailButton": "Change Email Address"
+  },
+  "best-sellers": {
+    "title": "Best Seller",
+    "Prev": "Prev",
+    "Next": "Next",
+    "Page": "Page",
+    "of": "of"
+  },
+  "shop": {
+    "All Products": "All Products",
+    "filterProducts": "Filter Products",
+    "search": "Search",
+    "categories": "Categories",
+    "brands": "Brands",
+    "price": "Price",
+    "apply": "Apply",
+    "Min": "Min",
+    "Max": "Max",
+    "sort": {
+      "label": "Sort",
+      "default": "Default",
+      "price_asc": "Price: Low to High",
+      "price_desc": "Price: High to Low",
+      "new_arrival": "New Arrival",
+      "popularity": "Popularity",
+      "top_rated": "Top Rated"
+    }
+  },
+
+  "pagination": {
+    "prev": "Prev",
+    "next": "Next",
+    "page": "Page",
+    "of": "of"
+  },
+  "New Arrival": {
+    "title": "New Arrival"
+  },
+  "compare": {
+    "labels": [
+      "Image",
+      "Title",
+      "Price",
+      "Category",
+      "Stock",
+      "Weight",
+      "Discount"
+    ],
+    "empty": "No products in compare list",
+    "remove": "Remove",
+    "addToCart": "Add to cart",
+    "Failed to load compare list": "Failed to load compare list",
+    "Error fetching compare list": "Error fetching compare list",
+    "Added to compare": "Added to compare",
+    "Failed to add to compare": "Failed to add to compare",
+    "Error adding product": "Error adding product",
+    "Removed from compare": "Removed from compare",
+    "Failed to remove item": "Failed to remove item",
+    "Error removing product": "Error removing product",
+    "Compare Products": "Compare Products",
+    "breadcrumbHome": "Home",
+    "breadcrumbCompare": "Compare",
+    "start_shopping": "Browse Products",
+    "description": "You haven’t added any products to compare yet. Start exploring and add some!",
+    "Please login to remove this product": "Please login to remove this product",
+    "Please login to add this product": "Please login to add this product",
+    "alreadyexist": "This Item already in compare list"
+  },
+
+  "noResults": "No results found",
+
+  "login": {
+    "welcome": "Welcome back",
+    "subtitle": "Log in to continue shopping",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "loginBtn": "Login",
+    "loggingIn": "Logging in...",
+    "noAccount": "Don't have an account?",
+    "createAccount": "Create Account",
+
+    "invalidEmail": "Invalid email",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "passwordMin": "Password must be at least 6 characters",
+
+    "loginSuccess": "Login successfully.",
+    "loginFailed": "Login failed! Check your credentials",
+    "networkError": "Network error! Check your connection"
+  },
+  "forgot": {
+    "title": "Forgot Password",
+    "subtitle": "Enter your email to receive a reset code",
+
+    "emailLabel": "Email Address",
+    "invalidEmail": "Invalid email",
+    "emailRequired": "Email is required",
+
+    "sendCode": "Send Reset Code",
+    "sending": "Sending...",
+    "resend": "Resend Code",
+    "resending": "Resending...",
+
+    "codeSent": "Reset code sent to your email.",
+    "codeResent": "Verification code resent to your email.",
+    "networkError": "Network error! Check your connection",
+    "unableToSend": "Unable to send reset code. Please try again.",
+    "unableToResend": "Unable to resend code. Please try again.",
+    "enterEmailFirst": "Please enter your email first"
+  },
+  "signup": {
+    "page_title": "JootBag | Sign Up",
+    "title": "Create your account",
+    "subtitle": "Join us to enjoy personalized shopping and faster checkout",
+
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "password": "Password",
+      "confirm_password": "Confirm Password"
+    },
+
+    "btn": {
+      "create": "Create Account",
+      "loading": "Creating Account..."
+    },
+
+    "have_account": "Already have an account?",
+    "signin": "Sign In",
+
+    "success": "Registered successfully. Please verify your email.",
+    "failed": "Registration failed. Please try again.",
+    "failed_general": "Failed to create account! Please try again",
+    "error_400": "Invalid data! Please check your information",
+    "error_409": "Account already exists! Try logging in",
+    "network": "Network error! Check your connection",
+
+    "errors": {
+      "name_min": "Name must be at least 2 characters",
+      "name_required": "Name is required",
+      "email_invalid": "Invalid email format",
+      "email_required": "Email is required",
+      "password_min": "Password must be at least 6 characters",
+      "password_required": "Password is required",
+      "password_match": "Passwords do not match",
+      "confirm_required": "Confirm password is required"
+    }
+  },
+  "passwordConfirm": {
+    "page_title": "Reset Password",
+    "subtitle": "Enter the code sent to your email and set a new password",
+    "form": {
+      "email": "Email Address",
+      "code": "Verification Code",
+      "password": "New Password",
+      "confirmPassword": "Confirm New Password"
+    },
+    "btn": {
+      "reset": "Reset Password",
+      "resetting": "Resetting..."
+    },
+    "errors": {
+      "email_required": "Email is required",
+      "email_invalid": "Invalid email",
+      "code_required": "Verification code is required",
+      "code_invalid": "Enter a valid code",
+      "password_required": "Password is required",
+      "password_min": "Password must be at least 6 characters",
+      "confirm_required": "Confirm password is required",
+      "password_mismatch": "Passwords do not match"
+    },
+    "success": "Password reset successfully! Please log in.",
+    "failed": "Failed to reset password. Please try again.",
+    "network": "Network error! Check your connection"
+  },
+  "paymentFailed": {
+    "title": "Payment Failed",
+    "subtitle": "Oops — Your transaction couldn’t be processed. Please try again or use another payment method.",
+    "tryAgain": "Try again"
+  },
+  "invoice": {
+    "title": "Invoice",
+    "thankYouShopping": "Thank you for shopping from us",
+    "invoice": "Invoice",
+    "order": "Order Number",
+    "items": "Items",
+    "price": "Price",
+    "quantity": "Quantity",
+    "subtotal": "Subtotal",
+    "shippingFees": "Shipping Fees",
+    "totalDiscount": "Total Discount",
+    "total": "Total",
+    "name": "Name",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "country": "Country",
+    "phone": "Phone",
+    "email": "Email",
+    "thankYouOrder": "Thank You For Your Order"
+  }
+}

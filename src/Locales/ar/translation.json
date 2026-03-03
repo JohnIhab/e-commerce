@@ -1,0 +1,693 @@
+{
+  "about": {
+    "title": "عن زازو للأطفال",
+    "description1": "زازو هي علامة تجارية متخصصة في ملابس الأطفال تجمع بين الراحة والجودة والتصاميم المرحة. نصمم قطعاً تساعد الأطفال على الحركة بحرية والتعبير عن شخصياتهم الملونة كل يوم.",
+    "description2": "من القطع اليومية الأساسية إلى الإطلالات المميزة للمناسبات الخاصة، تقدم زازو ملابس مصممة بعناية بأقمشة ناعمة وخامات آمنة وقصّات عصرية. هدفنا أن يشعر الآباء بالاطمئنان وأن يشعر الأطفال بالسعادة فيما يرتدونه.",
+    "pageTitle": "زازو للأطفال | من نحن",
+    "pageDescription": "تعرف على المزيد حول زازو للأطفال وشغفنا بتقديم ملابس أطفال عالية الجودة ومريحة",
+    "heroTitle": "من نحن",
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbAbout": "من نحن",
+    "videoSection": {
+      "title": "اكتشف عالم زازو للأطفال",
+      "description": "انضم إلينا في جولة داخل زازو للأطفال لتتعرف على كيفية تصميم ملابس مريحة وملونة يحبها الصغار. من الأقمشة الناعمة إلى التفاصيل المرحة، نصنع كل قطعة لتمنح الأطفال حرية الحركة وسعادة الارتداء.",
+      "watchVideo": "شاهد قصتنا",
+      "playVideo": "تشغيل الفيديو"
+    },
+    "whyUs": {
+      "title": "لماذا يختارنا الأهالي؟",
+      "description": "في زازو للأطفال نهتم بتصميم ملابس تجمع بين الراحة والأمان والأناقة للأطفال، وراحة البال للأهالي. نستخدم أقمشة ناعمة وآمنة للبشرة مع تصاميم مرحة تناسب اللعب واليوم المدرسي والخروجات العائلية.",
+      "stats": {
+        "branches": {
+          "number": "2+",
+          "title": "فروع ونقاط بيع",
+          "subtitle": "في عدة مدن ومناطق"
+        },
+        "clients": {
+          "number": "2k",
+          "title": "عائلة سعيدة",
+          "subtitle": "تثق في منتجاتنا"
+        },
+        "associates": {
+          "number": "30+",
+          "title": "شركاء موثوقون",
+          "subtitle": "تجار تجزئة ومنصات رقمية"
+        }
+      }
+    }
+  },
+  "navigation": {
+    "topBar": {
+      "promo": "احصل على منتج مجاني مع طلب بقيمة $200.00",
+      "todaysDeal": "عرض اليوم",
+      "customerService": "خدمة العملاء",
+      "giftCertificates": "شهادات هدايا"
+    },
+    "menu": {
+      "home": "الرئيسية",
+      "shop": "المتجر",
+      "about": "من نحن",
+      "pages": "الصفحات",
+      "account": "الحساب",
+      "loginRegister": "تسجيل الدخول/التسجيل"
+    },
+    "shopItems": {
+      "allProducts": {
+        "name": "جميع المنتجات",
+        "path": "/Shop",
+        "description": "تصفح مجموعتنا الكاملة"
+      },
+      "Categories": {
+        "name": "التصنيفات",
+        "path": "/categories",
+        "description": "تصفح التصنيفات"
+      },
+      "newArrivals": {
+        "name": "المنتجات الجديدة",
+        "path": "/products/new",
+        "description": "أحدث المنتجات في المتجر"
+      },
+      "bestSellers": {
+        "name": "الأكثر مبيعاً",
+        "path": "/products/bestsellers",
+        "description": "الأصناف الأكثر شعبية"
+      },
+      "saleItems": {
+        "name": "منتجات مخفضة",
+        "path": "/products/sale",
+        "description": "منتجات بخصم خاص"
+      }
+    },
+    "pagesItems": {
+      "aboutUs": {
+        "name": "من نحن",
+        "path": "/about",
+        "description": "تعرف على المزيد حول شركتنا"
+      },
+      "contact": {
+        "name": "تواصل معنا",
+        "path": "/contact",
+        "description": "تواصل معنا",
+        "title": "اتصل بنا",
+        "home": "الرئيسية"
+      },
+      "blog": {
+        "name": "المدونة",
+        "path": "/blog",
+        "description": "اقرأ أحدث مقالاتنا"
+      },
+      "portfolio": {
+        "name": "معرض الأعمال",
+        "path": "/portfolio",
+        "description": "شاهد معرض أعمالنا"
+      }
+    },
+    "authItems": {
+      "login": "تسجيل الدخول",
+      "register": "تسجيل",
+      "profile": "الملف الشخصي",
+      "logout": "تسجيل الخروج",
+      "loggedOutSuccess": "تم تسجيل الخروج بنجاح"
+    }
+  },
+  "contact": {
+    "headingLine1": "تواصل معنا",
+    "headingLine2": "لاستكشاف عالم الحقائب",
+    "subtitle": "نص تعريفي قصير للتواصل مع فريقنا. يسعدنا تلقي رسائلكم والاستفسارات في أي وقت.",
+    "findUsTitle": "موقعنا",
+    "address": "58A إيست ماديسون ستريت",
+    "mailUsTitle": "راسلنا",
+    "email": "info@example.com",
+    "contactUsTitle": "اتصل بنا",
+    "phone": "000 – 123 – 456789",
+    "websiteTitle": "موقعنا الإلكتروني",
+    "website": "www.example.com",
+    "title": "اتصل بنا",
+    "home": "الرئيسية",
+    "form": {
+      "title": "تواصل معنا",
+      "subtitle": "أرسل لنا رسالة وسنرد عليك في أقرب وقت",
+      "fullName": "الاسم الكامل",
+      "fullNamePlaceholder": "اكتب اسمك الكامل",
+      "phone": "رقم الهاتف",
+      "phonePlaceholder": "اكتب رقم هاتفك",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "اكتب بريدك الإلكتروني",
+      "message": "الرسالة",
+      "messagePlaceholder": "اكتب رسالتك هنا...",
+      "honeypotLabel": "الموقع الإلكتروني (اتركه فارغاً)",
+      "send": "إرسال الرسالة",
+      "sending": "جاري الإرسال...",
+      "invalidSubmission": "تم الكشف عن إرسال غير صالح.",
+      "successToast": "تم إرسال الرسالة بنجاح! سنعاود الاتصال بك قريباً.",
+      "errorToast": "فشل إرسال الرسالة. يرجى المحاولة لاحقاً.",
+      "thanksTitle": "شكراً لك!",
+      "thanksBody": "لقد تم استقبال رسالتك وسنعاود الاتصال بك قريباً."
+    }
+  },
+  "hero-slider": {
+    "See More": "اطلع على المزيد",
+    "items": [
+      "سافر بأناقة",
+      "اكتشف حقيبتك المثالية",
+      "استكشف مجموعات الحقائب الجديدة",
+      "احزم بذكاء، سافر بأناقة",
+      "اعثر على رفيق السفر المثالي",
+      "سافر بخفة، سافر بذكاء",
+      "حقائب عالية الجودة لكل رحلة",
+      "حيث يلتقي الأسلوب بالوظيفة"
+    ]
+  },
+  "newArrival": {
+    "title": "المنتجات الجديدة",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض جميع المنتجات الجديدة"
+  },
+  "featuredProducts": {
+    "title": "المنتجات المميزة",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض جميع المنتجات"
+  },
+  "bestSeller": {
+    "title": "الأكثر مبيعاً",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض جميع الأكثر مبيعاً"
+  },
+  "featured-flash": {
+    "title": "أحدث العروض",
+    "desc": "اطلع على عروضنا المميزة الخاصة!",
+    "seeAll": "عرض جميع العروض",
+    "View deal": "عرض التفاصيل",
+    "Flash Deals": "عروض لفترة محدودة",
+    "No offers available at the moment": "لا توجد عروض متاحة في الوقت الحالي",
+    "Ends in": "ينتهي في",
+    "Sale": "تخفيض"
+  },
+
+  "hot-offers": {
+    "title": "عروضنا الساخنة",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض جميع العروض",
+    "Hot Offers": "عروض مميزة"
+  },
+
+  "brands": {
+    "title": "الماركات",
+    "clear": "مسح"
+  },
+  "wishList": {
+    "title": "قائمة الرغبات",
+    "Product has been deleted successfully": "تم حذف المنتج بنجاح"
+  },
+  "offer-card": {
+    "Starts": "يبدأ:",
+    "Ends": "ينتهي:",
+    "Free": "منتج مجاني",
+    "No products": "لا توجد منتجات في هذا العرض",
+    "min_qty": "الحد الأدنى للكمية ",
+    "cart_total": "إجمالي السلة: ",
+    "on": "على",
+    "Save": "وفر",
+    "More products": "المزيد من المنتجات",
+    "View all offer products": "عرض جميع منتجات العرض"
+  },
+  "featured-offers": {
+    "title": "احدث العروض",
+    "description": "اطلع على عروضنا المميزة الخاصة!",
+    "seeAll": "عرض جميع العروض"
+  },
+  "offers-page": {
+    "title": "العروض",
+    "prev": "السابق",
+    "next": "التالي",
+    "page": "الصفحة",
+    "of": "من",
+    "no offer": "لم يتم العثور على عروض.",
+    "description": "الوصف"
+  },
+  "profile-points": {
+    "successfully": "تم التحويل بنجاح",
+    "failed": "فشل التحويل",
+    "error": "حدث خطأ أثناء تحميل النقاط",
+    "no_data.": "لا توجد بيانات نقاط.",
+    "Total Points": "إجمالي النقاط",
+    "Available Points": "النقاط المتاحة",
+    "Convert Points": "تحويل النقاط",
+    "Confirm Conversion": "تأكيد التحويل",
+    "This action will convert your available points to rewards.": "سيقوم هذا الإجراء بتحويل نقاطك المتاحة إلى مكافآت.",
+    "Cancel": "إلغاء",
+    "Converting...": "جارٍ التحويل...",
+    "Yes, convert": "نعم، حوّل",
+    "Used Points": "النقاط المستخدمة",
+    "There is 0 available point": "لا توجد نقاط متاحة",
+    "Do you need to convert": "هل تحتاج إلى تحويل ؟"
+  },
+  "product-brand": {
+    "Shop by Brands": "تسوق حسب الماركات",
+    "Discover our most popular sections": "اكتشف أقسامنا الأكثر شهرة"
+  },
+  "categories": {
+    "title": "تسوق حسب التصنيف",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض جميع التصنيفات",
+    "Categories": "التصنيفات"
+  },
+  "search": {
+    "placeholder": "ابحث عن المنتجات"
+  },
+  "Our_Services": {
+    "Our Services": "خدماتنا",
+    "All Fashion Bags between your hands": "كل حقائب الموضة بين يديك",
+    "Hand Bags": "حقائب يد",
+    "Back Packs": "حقائب ظهر",
+    "Travel Bags": "حقائب سفر"
+  },
+  "footer": {
+    "brandDescription": "حقائب فاخرة مصممة للمغامرات اليومية. الجودة والراحة والأناقة في كل غرزة.",
+    "shop": "المتجر",
+    "shopLinks": {
+      "allBags": "جميع الحقائب",
+      "newArrivals": "المنتجات الجديدة",
+      "bestSellers": "الأكثر مبيعًا",
+      "sale": "تخفيضات"
+    },
+    "support": "الدعم",
+    "supportLinks": {
+      "aboutUs": "من نحن",
+      "contact": "تواصل",
+      "shippingReturns": "الشحن والمرتجعات",
+      "faq": "الأسئلة الشائعة"
+    },
+    "followUs": "تابعنا",
+    "followUsText": "تواصل معنا عبر وسائل التواصل الاجتماعي",
+    "socialAlt": {
+      "facebook": "فيسبوك",
+      "instagram": "إنستغرام",
+      "twitter": "تويتر",
+      "youtube": "يوتيوب",
+      "linkedin": "لينكدإن",
+      "tiktok": "تيك توك"
+    },
+    "subscribe": "الاشتراك",
+    "privacy": "سياسة الخصوصية",
+    "terms": "شروط الخدمة",
+    "addressLabel": "العنوان",
+    "phoneLabel": "الهاتف"
+  },
+  "notFound": {
+    "title": "404 — الصفحة غير موجودة",
+    "subtitle": "عذرًا — لم نتمكن من العثور على الصفحة التي تبحث عنها. ربما تم نقلها أو حذفها، أو أن الرابط معطل.",
+    "goBack": "العودة للصفحة الرئيسية",
+    "footnote": "إذا كتبت عنوان الويب، فتحقق منه بحثًا عن أخطاء. إذا نقرت على رابط، فقد يكون الرابط قديمًا."
+  },
+  "bundle-offer": {
+    "FeaturedBundle": "أحدث الباقات",
+    "FeaturedBundleDesc": "اطلع على أحدث باقاتنا المميزة الخاصة!",
+    "FeaturedBundleBtn": "اطلع على كل الباقات",
+    "addBundle": "أضف الباقة إلى السلة",
+    "the": "الباقة",
+    "bundle": "تشمل",
+    "contains": "المحتويات",
+    "Bundle Offers": "عروض الباقات"
+  },
+  "product-details": {
+    "inStock": "متوفر في المخزون",
+    "outStock": "غير متوفر في المخزون",
+    "addToCart": "أضف إلى السلة",
+    "buyNow": "اشترِ الآن",
+    "related": "منتجات مشابهة",
+    "price": "السعر",
+    "errorLoad": "فشل تحميل المنتج",
+    "overview": "نظرة عامة",
+    "details": "التفاصيل",
+    "points": "النقاط",
+    "category": "التصنيف",
+    "viewAllFrom": "عرض كل المنتجات من",
+    "description": "الوصف",
+    "rewards": "مكافآت {{site}}",
+    "earnPoints": "احصل على {{points}} نقطة مع هذا الشراء",
+    "loginToRedeem": "سجّل الدخول لاستبدال النقاط",
+    "chooseOption": "من فضلك اختر خيارًا صحيحًا",
+    "notifyMe": "أخبرني عند التوفر"
+  },
+  "lastPieces": {
+    "title": "آخر القطع",
+    "description": "اكتشف أقسامنا الأكثر شهرة",
+    "seeAll": "عرض الكل",
+    "imageAlt": "صورة آخر قطعة"
+  },
+  "newest": {
+    "title": "حقيبة وصلت حديثًا من أحدث مجموعتنا",
+    "shop_now": "تسوق الآن",
+    "free_shipping": "شحن مجاني",
+    "delivery_on_time": "توصيل في الوقت المحدد",
+    "secure_payment": "دفع آمن"
+  },
+  "guestCheckout": {
+    "Default address changed successfully": "تم تغيير العنوان الافتراضي بنجاح",
+    "Address deleted successfully": "تم حذف العنوان بنجاح",
+    "Ship to": "الشحن إلى",
+    "Default": "افتراضي",
+    "Add Address": "إضافة عنوان",
+    "Saved Addresses": "العناوين المحفوظة",
+    "Set Default": "تعيين كافتراضي",
+    "Add New Address": "إضافة عنوان جديد",
+    "Try Again": "حاول مرة أخرى",
+    "Address Added Successfully": "تمت إضافة العنوان بنجاح",
+    "Full Address": "العنوان الكامل",
+    "Country": "البلد",
+    "State": "المقاطعة",
+    "City": "المدينة",
+    "Phone": "الهاتف",
+    "PostCode": "الرمز البريدي",
+    "ReCaptcha": "إعادة التحقق من الروبوت",
+    "Add": "إضافة",
+    "Place Order": "إتمام الطلب",
+    "Order Placed": "تم إتمام الطلب",
+    "Order Summary": "ملخص الطلب",
+    "SubTotal": "المجموع الفرعي",
+    "Shipping Fees": "رسوم الشحن",
+    "Discount": "الخصم",
+    "Total": "الإجمالي",
+    "incl. Vat": "شامل ضريبة القيمة المضافة",
+    "Guest Checkout": "الدفع كضيف",
+    "Full name": "الاسم الكامل",
+    "Email": "البريد الإلكتروني",
+    "Address": "العنوان",
+    "Cancel": "إلغاء",
+    "Select Country": "اختر البلد",
+    "Select State": "اختر المقاطعة",
+    "Select City": "اختر المدينة",
+    "Submitting...": "جاري الإرسال...",
+    "Login Now": "تسجيل الدخول",
+    "Your Order": "طلبك"
+  },
+  "checkout": {
+    "addAddress": "من فضلك أضف عنوان اولاً"
+  },
+  "cart": {
+    "title": "عربة التسوق",
+    "pageTitle": "جوت باج | السلة",
+    "pageDescription": "صفحة سلة جوت باج",
+    "yourItems": "عناصر السلة",
+    "quantityChangedSuccess": "تم تغيير الكمية بنجاح",
+    "banner": "بضع خطوات فقط تفصلك عن الاستمتاع بمنتجاتنا!",
+    "shippingFees": "رسوم الشحن",
+    "tax": "الضريبة",
+    "totalInclVat": " الاجمالى + الضريبة ",
+    "checkOut": "إتمام الطلب",
+    "viewCart": "عرض السلة",
+    "clearCart": "مسح السلة",
+    "empty": "عربة التسوق الخاصة بك فارغة",
+    "shopNow": "تسوق الآن",
+    "emptyImageAlt": "صورة السلة الفارغة",
+    "complete": "إتمام",
+    "order": "الطلب",
+    "Sure": "هل انت متأكد؟",
+    "No": "لا"
+  },
+  "orders": {
+    "title": "طلباتي",
+    "Order not found": "لم يتم العثور على الطلب",
+    "Cancel failed": "فشل الإلغاء",
+    "Error": "خطأ",
+    "Search Result": "نتيجة البحث",
+    "Find": "بحث",
+    "Search by order code e.g. ORD-...": "ابحث عن طريق رمز الطلب مثل ORD-...",
+    "Refresh": "تحديث",
+    "No items": "لا توجد عناصر",
+    "Price": "السعر",
+    "Shipping": "الشحن",
+    "Cancel Order": "إلغاء الطلب",
+    "Copy Code": "نسخ الرمز",
+    "No orders found.": "لم يتم العثور على طلبات.",
+    "Cancel": "إلغاء",
+    "Prev": "السابق",
+    "Next": "التالي",
+    "Page": "الصفحة",
+    "of": "من",
+    "Confirm Cancellation": "تأكيد الإلغاء",
+    "Are you sure you want to cancel this order?": "هل أنت متأكد أنك تريد إلغاء هذا الطلب؟",
+    "No": "لا",
+    "Yes, cancel": "نعم، إلغاء",
+    "Cancelling...": "جارٍ الإلغاء...",
+    "Copied code": "تم نسخ الرمز"
+  },
+  "profile": {
+    "Profile": "الملف الشخصي",
+    "Welcome": "مرحباً",
+    "Contact Info": "معلومات الاتصال",
+    "Email": "البريد الإلكتروني",
+    "Phone": "الهاتف",
+    "Saved Addresses": "العناوين المحفوظة",
+    "home": "المنزل",
+    "Orders": "الطلبات",
+    "All Orders": "جميع الطلبات",
+    "Sucssessful": "ناجحة",
+    "Canceled": "ملغاة",
+    "Returned": "معادة",
+    "Wallet": "المحفظة",
+    "Points": "النقاط",
+    "View your points summary": "عرض ملخص نقاطك",
+    "Balance": "الرصيد",
+    "No wallet found.": "لم يتم العثور على محفظة.",
+    "Transactions": "المعاملات",
+    "No transactions found.": "لم يتم العثور على معاملات.",
+    "Addresses": "العناوين",
+    "Manage your saved addresses": "إدارة عناوينك المحفوظة",
+    "Add New Address": "إضافة عنوان جديد",
+    "Default Address": "العنوان الافتراضي",
+    "Home": "الرئيسية",
+    "Address": "العنوان",
+    "Other Addresses": "عناوين أخرى",
+    "Set Default": "تعيين كافتراضي"
+  },
+  "profileDetails": {
+    "title": "الملف الشخصي",
+    "subtitle": "عرض وتحديث بياناتك الشخصية وبيانات التواصل",
+
+    "contact": {
+      "title": "معلومات التواصل",
+      "emailPlaceholder": "example@hotmail.com",
+      "phonePlaceholder": "+201234567899",
+      "updateButton": "تحديث معلومات التواصل"
+    },
+
+    "personal": {
+      "title": "المعلومات الشخصية",
+      "NamePlaceholder": "الاسم الكامل",
+      "lNamePlaceholder": "اسم العائلة",
+      "updateButton": "تحديث المعلومات الشخصية",
+      "updatePasswordButton": "تحديث كلمة المرور  ",
+      "password": "كلمة المرور",
+      "currentPassword": "كلمة المرور الحاليه",
+      "newPassword": "كلمة المرور الجديدة",
+      "confirmPassword": "تأكيد كلمة المرور ",
+      "forgetPassword": "نسيت كلمة المرور"
+    },
+    "newEmail": "البريد الإلكتروني الجديد",
+    "Code": "رمز التأكيد",
+    "changeYourEmailAddress": "تعديل البريد الإلكتروني الخاص بك",
+    "ChangeEmailButton": "تعديل البريد الإلكتروني"
+  },
+  "best-sellers": {
+    "title": "الأكثر مبيعاً",
+    "Prev": "السابق",
+    "Next": "التالي",
+    "Page": "الصفحة",
+    "of": "من"
+  },
+  "shop": {
+    "All Products": "جميع المنتجات",
+    "filterProducts": "تصفية المنتجات",
+    "search": "بحث",
+    "categories": "التصنيفات",
+    "brands": "الماركات",
+    "price": "السعر",
+    "apply": "تطبيق",
+    "Min": "الحد الأدنى",
+    "Max": "الحد الأقصى",
+    "sort": {
+      "label": "الفرز",
+      "default": "الافتراضي",
+      "price_asc": "السعر: من الأقل إلى الأعلى",
+      "price_desc": "السعر: من الأعلى إلى الأقل",
+      "new_arrival": "وصل حديثًا",
+      "popularity": "الشعبية",
+      "top_rated": "الأعلى تقييماً"
+    }
+  },
+
+  "pagination": {
+    "prev": "السابق",
+    "next": "التالي",
+    "page": "الصفحة",
+    "of": "من"
+  },
+  "New Arrival": {
+    "title": "المنتجات الجديدة"
+  },
+  "compare": {
+    "labels": [
+      "الصورة",
+      "العنوان",
+      "السعر",
+      "التصنيف",
+      "المخزون",
+      "الوزن",
+      "الخصم"
+    ],
+    "empty": "لا توجد منتجات في قائمة المقارنة",
+    "remove": "إزالة",
+    "addToCart": "أضف إلى السلة",
+    "Failed to load compare list": "فشل تحميل قائمة المقارنة",
+    "Error fetching compare list": "خطأ في جلب قائمة المقارنة",
+    "Added to compare": "تمت الإضافة إلى المقارنة",
+    "Failed to add to compare": "فشل في الإضافة إلى المقارنة",
+    "Error adding product": "خطأ في إضافة المنتج",
+    "Removed from compare": "تمت الإزالة من المقارنة",
+    "Failed to remove item": "فشل في إزالة العنصر",
+    "Error removing product": "خطأ في إزالة المنتج",
+    "Compare Products": "مقارنة المنتجات",
+    "breadcrumbHome": "الرئيسية",
+    "breadcrumbCompare": "مقارنة",
+    "start_shopping": "تصفح المنتجات",
+    "description": "لم تقم بإضافة أي منتجات للمقارنة بعد. ابدأ في الاستكشاف وأضف بعض المنتجات!",
+    "Please login to remove this product": "يرجى تسجيل الدخول لإزالة هذا المنتج",
+    "Please login to add this product": "يرجى تسجيل الدخول لإضافة هذا المنتج",
+    "alreadyexist": "المنتج موجود بالفعل داخل قائمة المقارنة"
+  },
+
+  "noResults": "لا يوجد نتائج",
+  "login": {
+    "welcome": "مرحباً بعودتك",
+    "subtitle": "سجّل الدخول للمتابعة في التسوق",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "loginBtn": "تسجيل الدخول",
+    "loggingIn": "جاري تسجيل الدخول...",
+    "noAccount": "ليس لديك حساب؟",
+    "createAccount": "إنشاء حساب جديد",
+
+    "invalidEmail": "البريد الإلكتروني غير صالح",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+    "passwordRequired": "كلمة المرور مطلوبة",
+    "passwordMin": "كلمة المرور يجب أن تكون 6 أحرف على الأقل",
+
+    "loginSuccess": "تم تسجيل الدخول بنجاح.",
+    "loginFailed": "فشل تسجيل الدخول! تأكد من البيانات",
+    "networkError": "خطأ في الشبكة! تحقق من الاتصال"
+  },
+  "forgot": {
+    "title": "نسيت كلمة المرور",
+    "subtitle": "أدخل بريدك الإلكتروني لإرسال رمز الاستعادة",
+
+    "emailLabel": "البريد الإلكتروني",
+    "invalidEmail": "البريد الإلكتروني غير صالح",
+    "emailRequired": "البريد الإلكتروني مطلوب",
+
+    "sendCode": "إرسال رمز الاستعادة",
+    "sending": "جاري الإرسال...",
+    "resend": "إعادة إرسال الرمز",
+    "resending": "جاري الإرسال...",
+
+    "codeSent": "تم إرسال رمز الاستعادة إلى بريدك الإلكتروني.",
+    "codeResent": "تم إعادة إرسال رمز التحقق إلى بريدك الإلكتروني.",
+    "networkError": "خطأ في الشبكة! تحقق من الاتصال.",
+    "unableToSend": "تعذر إرسال رمز الاستعادة. حاول مرة أخرى.",
+    "unableToResend": "تعذر إعادة إرسال الرمز. حاول مرة أخرى.",
+    "enterEmailFirst": "الرجاء إدخال البريد الإلكتروني أولاً"
+  },
+  "signup": {
+    "page_title": "جوت باج | إنشاء حساب",
+    "title": "أنشئ حسابك الآن",
+    "subtitle": "انضم إلينا للاستمتاع بتجربة شراء مخصصة وعمليات دفع أسرع",
+
+    "form": {
+      "name": "الاسم الكامل",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirm_password": "تأكيد كلمة المرور"
+    },
+
+    "btn": {
+      "create": "إنشاء حساب",
+      "loading": "جاري إنشاء الحساب..."
+    },
+
+    "have_account": "لديك حساب بالفعل؟",
+    "signin": "تسجيل الدخول",
+
+    "success": "تم التسجيل بنجاح. يرجى التحقق من بريدك الإلكتروني.",
+    "failed": "فشل في التسجيل. حاول مرة أخرى.",
+    "failed_general": "فشل إنشاء الحساب! يرجى المحاولة مرة أخرى.",
+    "error_400": "بيانات غير صحيحة! يرجى التحقق من المعلومات.",
+    "error_409": "الحساب موجود بالفعل! حاول تسجيل الدخول.",
+    "network": "خطأ في الشبكة! تحقق من اتصالك.",
+
+    "errors": {
+      "name_min": "يجب أن يكون الاسم حرفين على الأقل",
+      "name_required": "الاسم مطلوب",
+      "email_invalid": "صيغة البريد الإلكتروني غير صحيحة",
+      "email_required": "البريد الإلكتروني مطلوب",
+      "password_min": "كلمة المرور يجب أن تكون 6 حروف على الأقل",
+      "password_required": "كلمة المرور مطلوبة",
+      "password_match": "كلمتا المرور غير متطابقتين",
+      "confirm_required": "تأكيد كلمة المرور مطلوب"
+    }
+  },
+  "passwordConfirm": {
+    "page_title": "إعادة تعيين كلمة المرور",
+    "subtitle": "ادخل الكود المرسل إلى بريدك الإلكتروني وحدد كلمة مرور جديدة",
+    "form": {
+      "email": "البريد الإلكتروني",
+      "code": "رمز التحقق",
+      "password": "كلمة المرور الجديدة",
+      "confirmPassword": "تأكيد كلمة المرور الجديدة"
+    },
+    "btn": {
+      "reset": "إعادة تعيين كلمة المرور",
+      "resetting": "جاري إعادة التعيين..."
+    },
+    "errors": {
+      "email_required": "البريد الإلكتروني مطلوب",
+      "email_invalid": "البريد الإلكتروني غير صحيح",
+      "code_required": "رمز التحقق مطلوب",
+      "code_invalid": "ادخل رمز تحقق صالح",
+      "password_required": "كلمة المرور مطلوبة",
+      "password_min": "كلمة المرور يجب ألا تقل عن 6 أحرف",
+      "confirm_required": "تأكيد كلمة المرور مطلوب",
+      "password_mismatch": "كلمتا المرور غير متطابقتين"
+    },
+    "success": "تم إعادة تعيين كلمة المرور بنجاح! الرجاء تسجيل الدخول.",
+    "failed": "فشل إعادة تعيين كلمة المرور. حاول مرة أخرى.",
+    "network": "خطأ في الشبكة! تحقق من الاتصال"
+  },
+  "paymentFailed": {
+    "title": "فشلت عملية الدفع",
+    "subtitle": "عذرًا — لم نتمكن من إتمام العملية. برجاء المحاولة مرة أخرى أو استخدام طريقة دفع أخرى.",
+    "tryAgain": "المحاولة مرة أخرى"
+  },
+  "invoice": {
+    "title": "الفاتورة",
+    "thankYouShopping": "شكرًا لتسوقك معنا",
+    "invoice": "فاتورة",
+    "order": "رقم الطلب",
+    "items": "المنتجات",
+    "price": "السعر",
+    "quantity": "الكمية",
+    "subtotal": "الإجمالي الفرعي",
+    "shippingFees": "رسوم الشحن",
+    "totalDiscount": "إجمالي الخصم",
+    "total": "الإجمالي",
+    "name": "الاسم",
+    "address": "العنوان",
+    "city": "المدينة",
+    "state": "المحافظة",
+    "country": "الدولة",
+    "phone": "الهاتف",
+    "email": "البريد الإلكتروني",
+    "thankYouOrder": "شكرًا لطلبك"
+  }
+}

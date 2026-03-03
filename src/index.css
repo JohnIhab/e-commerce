@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Cairo", sans-serif;
+  /* overflow-x: hidden; */
+}
+
+/* --color-base: #13131A; */
+/* --color-baseTwo: #9E9E9E; */
+/* --color-primary: #253333; */
+@theme {
+--color-primary: var(--main);
+--color-dark-primary: var(--darkMain);
+--color-secondary: var(--secondary);
+--color-dark-secondary: var(--darkSecondary);
+--color-third: var(--third);
+--color-dark-third: var(--darkThird);
+}
+
+/* Smooth scrolling animation for slider */
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 30s linear infinite;
+}
+
+.group:hover .animate-scroll {
+  animation-play-state: paused;
+}
+
+.list-image div {
+  width: calc(40% - 6px) !important;
+  transition: width 1.5s;
+}
+
+.list-image .active {
+  width: calc(80% - 6px) !important;
+}
+
+button {
+  cursor: pointer;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+*::selection{
+    background-color: rgba(231, 226, 226, 0.633);
+}
+.guest-form::-webkit-scrollbar {
+  display: none;
+}
+.no-scroll-bar::-webkit-scrollbar {
+  display: none;
+}
