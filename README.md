@@ -1,4 +1,4 @@
-# E-Commerce Dashboard
+# E-Commerce
 
 A modern, feature-rich e-commerce application built with React and modern web technologies. This dashboard provides a complete shopping experience with product management, cart operations, user authentication, and order management.
 
